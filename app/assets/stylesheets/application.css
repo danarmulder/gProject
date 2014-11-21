@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+h1{
+  font-family: 'Abril Fatface';
+  font-style: 'cursive';
+}
+
+body{
+  background-color: #334C4C
+}
